@@ -21,3 +21,15 @@
 3.1 ar skaiciu yra lyginis
 3.2 ar skaiius lygiai dalinasi is 4
 3.3. ar skaicius yra didesnis uz 250
+
+6.(4 uzduotis is skaidriu)
+Muzikinės grupės turi specialius pavadinimus pagal žmonių skaičių grupėje. Pvz., „kvartetas“ yra muzikinė grupė, kurią sudaro keturi muzikantai.
+Parašykite sąlyginių teiginių seriją (else...if statements arba switch), kuri:
+Atspausdins consolėje "ne grupė" jei muzikantų yra mažiau ar lygu 0
+Atspausdins consolėje "solo" jei muzikantų yra 1
+Atspausdins consolėje "duetas" jei muzikantų yra 2
+Atspausdins consolėje "trio" jei muzikantų yra 3
+Atspausdins consolėje "kvartetas" jei muzikantų yra 4
+Atspausdins consolėje "didelė grupė" jei muzikantų yra daugiau nei 4
+Įsitikinkite, kad išbandėte savo kodą su skirtingomis vertėmis. Pvz.,
+Jeigu muzikantų yra 3, tada "trio" turi būti atspausdinama consolėje.
