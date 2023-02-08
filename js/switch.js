@@ -21,7 +21,7 @@ console.log('switch.js file was loaded');
 // switch varijantas
 {
   console.group('switch varijantas');
-  let myVar = true;
+  let myVar;
   console.log('myVar ===', myVar);
 
   switch (typeof myVar) {
@@ -32,6 +32,11 @@ console.log('switch.js file was loaded');
     case 'string':
       console.log(`kintamasis ${myVar} yra stringo tipo`);
       break;
+    case 'boolean':
+      console.log(`kintamasis ${myVar} yra boolean tipo`);
+      break;
+    default:
+      console.log('kazkas ne taip, bandyti veliau dar karta');
   }
 
   console.groupEnd();
