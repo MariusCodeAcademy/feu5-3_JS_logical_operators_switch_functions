@@ -11,4 +11,4 @@ console.log('uName.length ===', uName.length);
 
 let nameResult = uName.length <= 5 ? 'Short Name' : 'Long Name';
 
-console.log('nameResult ===', nameResult);
+console.log('nameResult ===', nameResult.toLocaleUpperCase());
