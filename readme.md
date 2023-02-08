@@ -35,6 +35,11 @@ Atspausdins consolėje "didelė grupė" jei muzikantų yra daugiau nei 4
 Jeigu muzikantų yra 3, tada "trio" turi būti atspausdinama consolėje.
 
 7. Sukuriam kintamaji 'theme' su reiksme 'light'. Parasome koda kuri priklausomai nuo theme reiksmes pakeis reiksme.
+
    1. Jei reiksme 'light' tai pakeiciam i 'dark'
    1. Jei reiksme 'dark' tai pakeiciam i 'light'
    1. reiksme atspausdiame pabaigoje kodo
+
+8. sukuriam kintamaji 'lightOn' kuriam priskiriam reiksme true.
+   1. parasome koda kuris pakeicia 'lightOn' reiksme i priesinga. Jei true tai false ir jei false tai true.
+   2. atspausdiname kodo pabaigoje sakini: "Now the light is ON" arba "Now the light is OFF"
