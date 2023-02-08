@@ -11,7 +11,13 @@
    - Kitos Salys - jei salis yra neaprasyta pirmais 2 punktais
 
 3. Sukurk variable 'car', kuris bus lygus kažkokiam automobilio prekės ženklui. Sukurk if-else (arba switch), kuris pasakys ar tas brand'as priklauso VW Group, ar BMW Group, ar nei vienam.
-   VW group priklauso: VW, Audi, Bentley, Bugatti, Lamborghini, Porsche.
-   BMW group priklauso: BMW, Mini, Rolls-Royce.
+
+   1. VW group priklauso: VW, Audi, Bentley, Bugatti, Lamborghini, Porsche.
+   1. BMW group priklauso: BMW, Mini, Rolls-Royce.
 
 4. Parašykite variable su jūsų vardu. Pasiklauskite, jei vardo ilgis trumpesnis nei 5 simboliai - tegul išmeta konsolėje "Short Name", kitaip - "Long Name". (string lenght)
+
+5(is vakar) 3. paprasyti vartotojo ivesti skaiciu nuo 0 iki 500. atspausdinti konsoleje
+3.1 ar skaiciu yra lyginis
+3.2 ar skaiius lygiai dalinasi is 4
+3.3. ar skaicius yra didesnis uz 250
