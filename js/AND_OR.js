@@ -44,5 +44,10 @@ console.log('!!" " ===', !!' ');
 // '!false
 // 'true
 
+// !!0
+// !!false
+// !true
+// false
+
 let username = null;
 let isUserOnline = !!username;
