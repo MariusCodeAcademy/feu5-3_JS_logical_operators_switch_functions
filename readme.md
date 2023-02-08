@@ -33,3 +33,8 @@ Atspausdins consolėje "kvartetas" jei muzikantų yra 4
 Atspausdins consolėje "didelė grupė" jei muzikantų yra daugiau nei 4
 Įsitikinkite, kad išbandėte savo kodą su skirtingomis vertėmis. Pvz.,
 Jeigu muzikantų yra 3, tada "trio" turi būti atspausdinama consolėje.
+
+7. Sukuriam kintamaji 'theme' su reiksme 'light'. Parasome koda kuri priklausomai nuo theme reiksmes pakeis reiksme.
+   1. Jei reiksme 'light' tai pakeiciam i 'dark'
+   1. Jei reiksme 'dark' tai pakeiciam i 'light'
+   1. reiksme atspausdiame pabaigoje kodo
