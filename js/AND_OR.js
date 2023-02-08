@@ -29,3 +29,20 @@ console.log('true || true ===', true || true);
 console.log('true || false ===', true || false);
 console.log('false || true ===', false || true);
 console.log('false || false ===', false || false);
+
+// NOT - ! - neigima arba priesiga reiksme
+console.log('!true ===', !true);
+console.log('!false ===', !false);
+console.log('!!"james" ===', !!'james');
+console.log('!!0 ===', !!0);
+console.log('!!"" ===', !!'');
+console.log('!!" " ===', !!' ');
+
+// !! konvertavimas reiksmes i boolean
+// '!!"james"
+// '!!true
+// '!false
+// 'true
+
+let username = null;
+let isUserOnline = !!username;
